@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 Ananya's AI Chatbot
 
-## Getting Started
+Welcome to **Ananya's AI Chatbot** — a beautifully styled, AI-powered chatbot built with **Next.js** and integrated with **Google's Gemini API** for dynamic and contextual responses. It even supports **PDF uploads**, allowing users to ask questions based on uploaded document content!
 
-First, run the development server:
+> 🚀 [Live Demo](https://my-ai-chatbot-git-main-ananya-giris-projects.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 💬 Chat interface with smooth animations using **Framer Motion**
+- 📄 Upload and parse PDF files using **PDF.js**
+- 🧠 AI responses powered by **Gemini 2.0 Flash (Google's Generative Language API)**
+- 🧑‍💻 Elegant UI using **Tailwind CSS** and custom component design
+- 🌈 Beautiful background, smooth scroll, and responsive design
+- 🕐 Timestamps on every message
+- ✨ Deployed on **Vercel**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+--
 
-## Learn More
+## 🛠️ Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js 13+ (App Router, Client Components)**
+- **React Hooks**
+- **Framer Motion**
+- **Tailwind CSS**
+- **PDF.js**
+- **Google Generative Language API (Gemini 2.0 Flash)**
+- **Vercel for deployment**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
